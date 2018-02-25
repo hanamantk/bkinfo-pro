@@ -1,0 +1,21 @@
+body{
+
+}
+
+.container{
+	background: #D2FBF8;
+	margin: 0 auto;
+	width: 860px;
+	height: 900px;
+}
+
+.align-lbl{
+	margin-right: 2em;
+}
+
+.login-panel{
+	width: 50%;
+	margin-top:  25%;
+	margin-right: auto;
+	margin-left: auto;
+}
